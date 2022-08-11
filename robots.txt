@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://patmanbodohkuwe.github.io/home-renovation/sitemapx.xml
